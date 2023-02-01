@@ -1,2 +1,4 @@
-1.contoh github
-2.apload file ke github
+1. contoh github
+2. apload file ke github
+3. pulang jam set 10
+4. masuk jam set 6
